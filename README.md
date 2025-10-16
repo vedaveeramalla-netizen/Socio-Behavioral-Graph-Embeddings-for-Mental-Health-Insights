@@ -1,1 +1,2 @@
 # Socio-Behavioral-Graph-Embeddings-for-Mental-Health-Insights
+This project presents a **Socio-Behavioral Graph Embedding Framework (SBGEF)** that integrates linguistic, behavioral, and structural social network data to detect mental health patterns. It leverages **Graph Neural Networks and attention-based fusion** to provide accurate, interpretable, and ethical insights into online user well-being.
